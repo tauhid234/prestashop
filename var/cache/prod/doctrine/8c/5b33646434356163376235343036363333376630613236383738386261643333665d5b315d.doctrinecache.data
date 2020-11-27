@@ -1,0 +1,18 @@
+1606452674
+s:2850:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 27 Nov 2020 02:51:11 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2730.jn-hebergement.com
+
+{"modules":[{"id":"15281","name":"statsregistrations","displayName":"Customer accounts","categoryName":"Analytics & Statistics","description":"Enrich your stats, add a registration progress tab to analyze your visitors&rsquo; behavior","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/en\/analytics-statistics\/15281-customer-accounts.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-EN&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15281.jpg","fullDescription":"Enrich your stats, add a registration progress tab to analyze your visitors&rsquo; behavior.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Retrieve data: <\/strong>these current values are essential to analyze your business and make it evolve in the right direction.<\/li>\r\n\t<li><strong>Analyze your registration process:<\/strong> over time, it will indicate whether or not things are on the right track.<\/li>\r\n<\/ul>\r\n","features":"No need to configure this module, all you have to do is enable or disable it. If enabled, it will be displayed in the &lsquo;Stats&rsquo; section of your back office.<br \/>\r\n<br \/>\r\nThis module allows you to access the number of visitors who stopped at the registering step, the number of visitors who placed an order directly after registration, and the total number of customer accounts registered.<br \/>\r\n<br \/>\r\nYou also have the possibility to export it as a CSV file.","customer_benefits":"","demo_video":"","version":"2.0.0","last_update":"2020-11-26 13:06:19","compatibility":{"from":"1.7.1.0","to":"1.7.7.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Made by PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/1294316-pprod\/customer-accounts.jpg","big":"https:\/\/medias2.prestastore.com\/1294316-pbig\/customer-accounts.jpg"}}]}";

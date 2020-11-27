@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_buybuttonlite</name>
+    <displayName><![CDATA[Tombol beli sederhana]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Tingkatkan konversi dan penjualan Anda, buat tautan dan tambahkan kedalam konten agar pengunjung dapat berbelanja dengan lebih mudah]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Yakin akan melepaskan modul ini?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
